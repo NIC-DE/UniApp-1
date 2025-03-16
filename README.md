@@ -11,7 +11,8 @@ It allows filtering by country, name, and other relevant criteria, providing an 
 - Integration with external APIs or databases for up-to-date university data
 
 # Technologies Used:
-- Java (NetBeans)
+- Netbeans V23
+- JDK 21
 - Database (MySQL/Derby)
 - GitHub for version control
 
